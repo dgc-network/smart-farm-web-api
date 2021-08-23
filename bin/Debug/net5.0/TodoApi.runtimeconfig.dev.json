@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/rover/.dotnet/store/|arch|/|tfm|",
+      "/Users/rover/.nuget/packages"
+    ]
+  }
+}
